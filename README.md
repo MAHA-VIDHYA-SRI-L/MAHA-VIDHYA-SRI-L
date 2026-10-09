@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MAHA-VIDHYA-SRI-L/MAHA-VIDHYA-SRI-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Maha Vidhya Sri 👋
 
-Here are some ideas to get you started:
+### Computer Science Student | Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+ideas+into+real-world+solutions;Learning+DSA+and+building+projects;Exploring+AI%2C+software+and+open+source" alt="Typing introduction" />
+
+<br/>
+
+*Curious mind. Creative builder. Lifelong learner.*
+
+</div>
