@@ -45,3 +45,60 @@ Hey! I'm **Maha Vidhya Sri**, a Computer Science and Engineering student passion
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [RetailIQ](https://github.com/MAHA-VIDHYA-SRI-L/RetailIQ)
+
+An evidence-first AI copilot for retail sales analytics and inventory intelligence, combining deterministic business calculations with AI-assisted explanations.
+
+**Tech:** Python · React · SQLite · AI
+
+[🔗 Repository](https://github.com/MAHA-VIDHYA-SRI-L/RetailIQ) · [🌐 Live Demo](https://retailiq-eight.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [PlaceMate](https://github.com/MAHA-VIDHYA-SRI-L/Team-1)
+
+A placement preparation platform designed to support students in their career preparation journey.
+
+**Tech:** TypeScript · Frontend · Backend
+
+[🔗 Repository](https://github.com/MAHA-VIDHYA-SRI-L/Team-1) · [🌐 Live Demo](https://team-1-placemate.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 [Personal Portfolio](https://github.com/MAHA-VIDHYA-SRI-L/portfolio1)
+
+My personal portfolio project for presenting my work, technical interests, and developer journey.
+
+**Tech:** React · JavaScript · CSS
+
+[🔗 Repository](https://github.com/MAHA-VIDHYA-SRI-L/portfolio1) · [🌐 Live Portfolio](https://mahavidhyasrimvs.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [Disaster Management](https://github.com/MAHA-VIDHYA-SRI-L/disaster_management)
+
+A web-based disaster management interface featuring emergency alerts, student dashboards, and virtual drill simulation screens.
+
+**Tech:** HTML · CSS · JavaScript
+
+[🔗 Repository](https://github.com/MAHA-VIDHYA-SRI-L/disaster_management) · [🌐 Live Demo](https://disaster-management-chi.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+---
