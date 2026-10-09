@@ -120,3 +120,32 @@ A web-based disaster management interface featuring emergency alerts, student da
 </div>
 
 ---
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+I'm always happy to connect with fellow developers, collaborate on projects, and explore opportunities to learn and grow.
+
+<a href="https://github.com/MAHA-VIDHYA-SRI-L">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/maha-vidhya-sri-lingeswaran/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:mahavidhyasri209@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://mahavidhyasrimvs.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+### ✨ Thanks for visiting my profile!
+
+*Keep learning. Keep building. Keep growing.*
+
+</div>
