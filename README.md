@@ -11,3 +11,17 @@
 *Curious mind. Creative builder. Lifelong learner.*
 
 </div>
+---
+
+## 👩🏻‍💻 About Me
+
+Hey! I'm **Maha Vidhya Sri**, a Computer Science and Engineering student passionate about software development, problem-solving, and building technology that makes a difference.
+
+* 🔭 Building practical software projects and exploring new ideas.
+* 🌱 Strengthening my **DSA, Python, and full-stack development** skills.
+* 🤖 Exploring AI-powered applications and intelligent solutions.
+* 👥 Serving as a **Competitive Programming Lead at GDG**, helping students learn and practice problem-solving.
+* 🏆 Interested in hackathons, open-source contributions, and software engineering opportunities.
+* 🎯 My goal is to become a well-rounded software engineer through continuous learning and hands-on building.
+
+> 💡 *Learn continuously. Build fearlessly. Improve every day.*
